@@ -10,33 +10,45 @@ information to generate context-based responses.
 **🎯 Project Objectives:****
 
 Build a document-based conversational AI chatbot.
+
 Understand and implement Retrieval-Augmented Generation (RAG).
+
 Load and process PDF documents.
+
 Convert text chunks into numerical embeddings.
+
 Store and retrieve document embeddings using Qdrant.
+
 Integrate Groq LLM for AI-generated responses.
+
 Maintain conversation history for follow-up questions.
+
 Generate answers based only on the provided document context.
 
 **🛠️ Technologies & Libraries Used:**
 
-Python
-LangChain
-Groq API
-Hugging Face
-Sentence Transformers
-Qdrant
-Vector database
-PyPDF
-Google Colab
+* Python
+* LangChain
+* Groq API
+* Hugging Face
+* Sentence Transformers
+* Qdrant
+* Vector database
+* PyPDF
+* Google Colab
 
 **🧠 Key Features:**
 
 PDF-Based Question Answering: Ask questions about the HEC UGEP Policy document.
+
 Semantic Search: Retrieve relevant document chunks using embeddings.
+
 Context-Aware Responses: Generate answers using retrieved document information.
+
 Conversation Memory: Maintain chat history for follow-up questions.
+
 Hallucination Control: Instruct the model to respond with "I don't know." when the answer is not available in the provided context.
+
 Interactive CLI: Communicate with the chatbot through a command-line interface.
 
 **👩‍💻 Author:**
