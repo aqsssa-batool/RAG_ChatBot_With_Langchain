@@ -1,4 +1,5 @@
-📚 LangChain RAG Chatbot – HEC UGEP Policy Assistant
+**📚 LangChain RAG Chatbot – HEC UGEP Policy Assistant**
+
 📌 Project Overview
 This project is an AI-powered Retrieval-Augmented Generation (RAG) Chatbot built using LangChain, Groq API, Hugging Face Embeddings, and Qdrant Vector Database.
 The chatbot allows users to ask questions about the HEC Undergraduate Education Policy (UGEP) PDF document and receive relevant answers based on its content.
